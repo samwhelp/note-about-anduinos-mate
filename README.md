@@ -32,6 +32,12 @@
 | [簡易微調](https://github.com/samwhelp/note-about-anduinos-mate/tree/gh-pages/_demo/scripts/mate-adjustment) |
 
 
+| Style Management |
+| ---------------- |
+| [make-mate-style](https://github.com/samwhelp/make-mate-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
 
 
 ## ISO
